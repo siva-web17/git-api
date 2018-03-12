@@ -1,2 +1,2 @@
 
-:art: Emoji Commit
+:100: Emoji Commit
