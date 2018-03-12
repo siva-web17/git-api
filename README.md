@@ -1,2 +1,2 @@
 
-:100: :ng_woman: Emoji Commit
+:100:  Emoji Commit
